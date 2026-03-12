@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "MRD33.aternos.me",
-    "port": 58721,
-    "version": "",
+    "port":58721,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
